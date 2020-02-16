@@ -1,0 +1,14 @@
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\bin\Debug\netcoreapp3.1\myBank.exe
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\bin\Debug\netcoreapp3.1\myBank.deps.json
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\bin\Debug\netcoreapp3.1\myBank.runtimeconfig.json
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\bin\Debug\netcoreapp3.1\myBank.runtimeconfig.dev.json
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\bin\Debug\netcoreapp3.1\myBank.dll
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\bin\Debug\netcoreapp3.1\myBank.pdb
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\bin\Debug\netcoreapp3.1\BankStuff.dll
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\bin\Debug\netcoreapp3.1\BankStuff.pdb
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\obj\Debug\netcoreapp3.1\myBank.csprojAssemblyReference.cache
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\obj\Debug\netcoreapp3.1\myBank.AssemblyInfoInputs.cache
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\obj\Debug\netcoreapp3.1\myBank.AssemblyInfo.cs
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\obj\Debug\netcoreapp3.1\myBank.csproj.CopyComplete
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\obj\Debug\netcoreapp3.1\myBank.dll
+C:\Users\devop\Documents\Learning Path\Programming\C#\Bank\obj\Debug\netcoreapp3.1\myBank.pdb

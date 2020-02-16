@@ -1,0 +1,8 @@
+C:\Users\devop\Documents\Learning Path\Programming\C#\BankStuff\bin\Debug\netcoreapp3.1\BankStuff.deps.json
+C:\Users\devop\Documents\Learning Path\Programming\C#\BankStuff\bin\Debug\netcoreapp3.1\BankStuff.dll
+C:\Users\devop\Documents\Learning Path\Programming\C#\BankStuff\bin\Debug\netcoreapp3.1\BankStuff.pdb
+C:\Users\devop\Documents\Learning Path\Programming\C#\BankStuff\obj\Debug\netcoreapp3.1\BankStuff.csprojAssemblyReference.cache
+C:\Users\devop\Documents\Learning Path\Programming\C#\BankStuff\obj\Debug\netcoreapp3.1\BankStuff.AssemblyInfoInputs.cache
+C:\Users\devop\Documents\Learning Path\Programming\C#\BankStuff\obj\Debug\netcoreapp3.1\BankStuff.AssemblyInfo.cs
+C:\Users\devop\Documents\Learning Path\Programming\C#\BankStuff\obj\Debug\netcoreapp3.1\BankStuff.dll
+C:\Users\devop\Documents\Learning Path\Programming\C#\BankStuff\obj\Debug\netcoreapp3.1\BankStuff.pdb
